@@ -1,6 +1,6 @@
 - name: Jo3ght
   bio: Hello anh em
-  avatar: ./avatars/dennis-brotzky.jpg
+  avatar: ../posts/images/pngegg (1).png
   featured: true
   social:
     - url: 'https://unsplash.com'
